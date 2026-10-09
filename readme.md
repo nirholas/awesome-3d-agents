@@ -254,3 +254,7 @@ How to get good at this. Read in roughly this order.
 ## Contributing
 
 Additions are welcome. Read [CONTRIBUTING.md](contributing.md) first: entries live in [`data/awesome.json`](https://github.com/nirholas/three.ws/blob/main/data/awesome.json), not in this file, which is generated. The list is published under Apache-2.0, and each linked project carries its own license.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/awesome-3d-agents&type=Date)](https://www.star-history.com/#nirholas/awesome-3d-agents&Date)
