@@ -258,3 +258,26 @@ Additions are welcome. Read [CONTRIBUTING.md](contributing.md) first: entries li
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/awesome-3d-agents&type=Date)](https://www.star-history.com/#nirholas/awesome-3d-agents&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If awesome-3d-agents saves you time, **[star it on GitHub](https://github.com/nirholas/awesome-3d-agents)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=awesome-3d-agents%3A%20A%20curated%20list%20of%203D%20agent%20tooling%2C%20engines%20and%20embeds&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fawesome-3d-agents) · [Share on Bluesky](https://bsky.app/intent/compose?text=awesome-3d-agents%3A%20A%20curated%20list%20of%203D%20agent%20tooling%2C%20engines%20and%20embeds%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fawesome-3d-agents) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fawesome-3d-agents) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fawesome-3d-agents&t=awesome-3d-agents%3A%20A%20curated%20list%20of%203D%20agent%20tooling%2C%20engines%20and%20embeds) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fawesome-3d-agents&title=awesome-3d-agents%3A%20A%20curated%20list%20of%203D%20agent%20tooling%2C%20engines%20and%20embeds)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/awesome-3d-agents` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/awesome-3d-agents/issues) or [start a discussion](https://github.com/nirholas/awesome-3d-agents/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/awesome-3d-agents)](https://github.com/nirholas/awesome-3d-agents/graphs/contributors)
+
+<!-- /three.ws:growth -->

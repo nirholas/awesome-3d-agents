@@ -1,0 +1,28 @@
+# awesome-3d-agents
+
+> A curated list of 3D agent tooling, engines and embeds.
+
+awesome-3d-agents is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/awesome-3d-agents/blob/HEAD/README.md): install, usage and reference
+- [Contents](https://github.com/nirholas/awesome-3d-agents/blob/HEAD/README.md#contents)
+- [Text and image to 3D](https://github.com/nirholas/awesome-3d-agents/blob/HEAD/README.md#text-and-image-to-3d)
+- [Photos and video to 3D](https://github.com/nirholas/awesome-3d-agents/blob/HEAD/README.md#photos-and-video-to-3d)
+- [Avatars and characters](https://github.com/nirholas/awesome-3d-agents/blob/HEAD/README.md#avatars-and-characters)
+- [Rigging and retargeting](https://github.com/nirholas/awesome-3d-agents/blob/HEAD/README.md#rigging-and-retargeting)
+- [Motion and animation](https://github.com/nirholas/awesome-3d-agents/blob/HEAD/README.md#motion-and-animation)
+- [Texturing and materials](https://github.com/nirholas/awesome-3d-agents/blob/HEAD/README.md#texturing-and-materials)
+- [Faces, lipsync, and voice](https://github.com/nirholas/awesome-3d-agents/blob/HEAD/README.md#faces-lipsync-and-voice)
+- [AGENTS.md](https://github.com/nirholas/awesome-3d-agents/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/awesome-3d-agents/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/awesome-3d-agents)
+- [Issues](https://github.com/nirholas/awesome-3d-agents/issues)
+- [Discussions](https://github.com/nirholas/awesome-3d-agents/discussions)
+- [Homepage](https://three.ws/awesome)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)

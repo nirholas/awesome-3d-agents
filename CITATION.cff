@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "awesome-3d-agents"
+abstract: "A curated list of 3D agent tooling, engines and embeds."
+license: Apache-2.0
+repository-code: "https://github.com/nirholas/awesome-3d-agents"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
